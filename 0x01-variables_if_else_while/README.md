@@ -1,1 +1,1 @@
-Positive anything is better than negative nothing
+# C - Variables, if, else, while
